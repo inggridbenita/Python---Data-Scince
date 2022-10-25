@@ -1,2 +1,2 @@
 # Python-DataScience
-Berisi tugas-tugas yang diberikan pada saat mengikuti BootCamp yang diadakan oleh SanberCode
+Berisi final project diberikan pada saat mengikuti BootCamp Python - Data Science yang diadakan oleh SanberCode
